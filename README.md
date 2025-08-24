@@ -46,7 +46,7 @@ Foi realizado em equipe (5 pessoas) como parte de uma **avaliação técnica de 
 
 1. **Clonar o repositório**
    ```bash
-   git clone <URL_DO_REPO_FRONTEND.git>
+	git clone <URL_DO_REPO_FRONTEND.git>
 Entrar na pasta
 
 	cd API-Catalogacao-de-mangas
@@ -64,22 +64,35 @@ O sistema estará disponível em:
 
 
 🤝 Contribuição
+
+
 Este projeto foi feito em equipe (5 pessoas), mas por escolha pessoal apenas meu nome aparece como autor.
+
 
 Sugestões de melhorias são bem-vindas:
 
+
 Abra uma issue para bugs/ideias
+
 
 Envie um Pull Request com contribuições
 
+
 📌 Roadmap
+
+
  Melhorar layout e usabilidade
+ 
 
  Implementar autenticação no frontend
+ 
 
  Adicionar suporte a favoritos
+ 
 
  Melhorar integração com API (filtros mais avançados)
+
+ 
 
 ## 👨‍💻 Autores
 
