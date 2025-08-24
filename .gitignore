@@ -1,0 +1,44 @@
+## Compilação
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Configuração do Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Arquivos de log e cache
+*.log
+*.tlog
+*.vscode/
+.vscode/*
+.vscode-test/
+*.cache
+*.config
+*.tmp
+
+## Publicações / Releases
+*.publish/
+publish/
+out/
+artifacts/
+
+## Configurações locais
+*.local.json
+appsettings.Development.json
+
+## Arquivos gerados pelo Razor/Blazor
+*.rz.scp.css
+
+## Sistema
+.DS_Store
+Thumbs.db
+
+## Dependências de pacotes
+# (normalmente restaura pelo dotnet restore)
+packages/
