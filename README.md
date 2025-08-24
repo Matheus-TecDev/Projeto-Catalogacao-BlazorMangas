@@ -9,16 +9,6 @@ Foi realizado em equipe (5 pessoas) como parte de uma **avaliação técnica de 
 
 ---
 
-## 📚 Preview
-
-![Preview](Images/preview.png)
-
-👉 [Acessar o projeto](https://site-freelance-seven-motors.vercel.app/)
-
-[![Deploy na Vercel](https://vercel.com/button)](https://site-freelance-seven-motors.vercel.app/)
-
----
-
 ## ⚡ Funcionalidades
 - Interface para listagem de mangás.
 - Páginas de detalhes com imagens e descrição.
