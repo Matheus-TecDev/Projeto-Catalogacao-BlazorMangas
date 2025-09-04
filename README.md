@@ -46,7 +46,7 @@ Foi realizado em equipe (5 pessoas) como parte de uma **avaliação técnica de 
 
 1. **Clonar o repositório**
    ```bash
-	git clone <URL_DO_REPO_FRONTEND.git>
+	git clone https://github.com/Matheus-TecDev/Projeto-Catalogacao-BlazorMangas.git
 2. Entrar na pasta
 	```bash
 	cd API-Catalogacao-de-mangas
