@@ -1,4 +1,4 @@
-# 🎨 Frontend — Catálogo de Mangás (Blazor)
+## Frontend — Catálogo de Mangás (Blazor)
 
 ## 📖 Descrição
 Este repositório corresponde ao **Frontend** do sistema de catalogação de mangás, desenvolvido em **Blazor WebAssembly**.  
@@ -47,23 +47,23 @@ Foi realizado em equipe (5 pessoas) como parte de uma **avaliação técnica de 
 1. **Clonar o repositório**
    ```bash
 	git clone <URL_DO_REPO_FRONTEND.git>
-Entrar na pasta
+2. Entrar na pasta
 
 	cd API-Catalogacao-de-mangas
-Restaurar pacotes
+3. Restaurar pacotes
 
 	dotnet restore
 
-Rodar em modo desenvolvimento
+4. Rodar em modo desenvolvimento
 
 	dotnet run
 	
-O sistema estará disponível em:
+5. O sistema estará disponível em:
 	
 	https://localhost:5002
 
 
-🤝 Contribuição
+## 🤝 Contribuição
 
 
 Este projeto foi feito em equipe (5 pessoas), mas por escolha pessoal apenas meu nome aparece como autor.
@@ -78,7 +78,7 @@ Abra uma issue para bugs/ideias
 Envie um Pull Request com contribuições
 
 
-📌 Roadmap
+## 📌 Roadmap
 
 
  Melhorar layout e usabilidade
@@ -99,4 +99,4 @@ Envie um Pull Request com contribuições
 - [Matheus Freire](https://github.com/Matheus-TecDev)  
 - [LinkedIn](https://www.linkedin.com/in/matheus-freire-martins-da-costa-318622376/) 
  
-📫 Contato: matheus.tecnodev@gmail.com
+📫 Contato: [matheus.tecnodev@gmail.com](mailto:matheus.tecnodev@gmail.com)
