@@ -48,18 +48,18 @@ Foi realizado em equipe (5 pessoas) como parte de uma **avaliação técnica de 
    ```bash
 	git clone <URL_DO_REPO_FRONTEND.git>
 2. Entrar na pasta
-
+	```bash
 	cd API-Catalogacao-de-mangas
 3. Restaurar pacotes
-
+	```bash
 	dotnet restore
 
 4. Rodar em modo desenvolvimento
-
+	```bash
 	dotnet run
 	
 5. O sistema estará disponível em:
-	
+	```bash	
 	https://localhost:5002
 
 
